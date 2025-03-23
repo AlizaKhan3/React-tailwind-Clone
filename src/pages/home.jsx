@@ -29,8 +29,6 @@ const HomePage = () => {
       <TestimonialPage/>
       <AppContact/>
       <AppFooter/>
-      <AnchorTemporaryDrawer/>
-
     </>
   )
 }
